@@ -53,9 +53,7 @@ import ai.api.model.Metadata;
 import ai.api.model.Result;
 import ai.api.model.Status;
 
-/**
- * Created by alexey on 07/12/16.
- */
+
 public class AITextSampleActivity extends BaseActivity implements AdapterView.OnItemSelectedListener, View.OnClickListener {
 
     public static final String TAG = AITextSampleActivity.class.getName();
